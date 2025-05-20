@@ -78,7 +78,9 @@ We simulated 5 wordlines (WL[0] to WL[4]) and verified the correct operation of 
  ![image](https://github.com/user-attachments/assets/88b38aec-aaa9-4725-981d-19cc0ce58f45)
 
 -DRC, LVS
+
 ![image](https://github.com/user-attachments/assets/23769a72-0da2-4e09-a921-46526afd5bce)
+
 ![image](https://github.com/user-attachments/assets/ea66f151-9f88-460e-baf8-35c8d7856219)
 
 
